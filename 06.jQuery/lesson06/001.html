@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Sign Up</title>
+  </head>
+  <body>
+    <form id="signUpForm">
+      <label for="email">이메일</label>
+      <hr/>
+      <input type="text" id="email" placeholder="Email을 입력하세요." /><br/>
+      <br/>
+
+      <label for="jobs">직업</label>
+      <hr/>
+      <select id="jobs">
+        <option value="0">선택하세요.</option>
+        <option value="1">회사원</option>
+        <option value="2">학생</option>
+        <option value="3">교수</option>
+      </select><br/>
+      <br/>
+
+      <label for="description">내용</label><hr/>
+      <textarea id="description" placeholder="내용을 입력하세요."></textarea><br/>
+      <br/>
+
+      <span class="title">연령대</span><hr/>
+      <label for="age10">10대</label>
+      <input type="radio" name="age" id="age10" value="10">
+      <label for="age20">20대</label>
+      <input type="radio" name="age" id="age20" value="20">
+      <label for="age30">30대</label>
+      <input type="radio" name="age" id="age30" value="30">
+      <label for="age40">40대</label>
+      <input type="radio" name="age" id="age40" value="40">
+      <label for="age50">50대</label>
+      <input type="radio" name="age" id="age50" value="50"><br/>
+      <br/>
+
+      <span class="title">좋아하는 운동</span><hr/>
+      <label for="hobby1">축구</label>
+      <input type="checkbox" name="hobby" id="hobby1" value="1">
+      <label for="hobby2">낚시</label>
+      <input type="checkbox" name="hobby" id="hobby2" value="2">
+      <label for="hobby3">뒹굴기</label>
+      <input type="checkbox" name="hobby" id="hobby3" value="3"><br/>
+      <br/>
+
+      <input type="file" id="file" /><br/><br/>
+      <input type="button" id="done" value="완료" />
+    </form>
+  </body>
+</html>
