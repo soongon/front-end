@@ -82,7 +82,7 @@ body {
    ========================================================================== */
 
 /**
- * Remove the gray background color from active links in IE 10.
+ * Remove the gray background color from active links in IE 03.full-background.
  */
 
 a {
@@ -339,8 +339,8 @@ html input[disabled] {
 }
 
 /**
- * 1. Address box sizing set to `content-box` in IE 8/9/10.
- * 2. Remove excess padding in IE 8/9/10.
+ * 1. Address box sizing set to `content-box` in IE 8/9/03.full-background.
+ * 2. Remove excess padding in IE 8/9/03.full-background.
  */
 
 input[type="checkbox"],
