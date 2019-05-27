@@ -1,0 +1,14 @@
+.boxAnimate .box {
+  width: 100px;
+  height: 100px;
+  background-color: #CCCCCC;
+  vertical-align: top;
+}
+
+.boxAnimate .inline {
+  display: inline-block;
+}
+
+body.boxAnimate {
+  background-color: #333333;
+}

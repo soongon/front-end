@@ -1,0 +1,80 @@
+body {
+  background-color: #ccc;
+  background-image: url('./imgs/background.jpg');
+  padding: 10px;
+}
+
+legend {
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #f3f3f3;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+h2 {
+  color: #f3f3f3;
+  font-size: 21px;
+  font-weight: bold;
+  margin: 0px;
+  margin-top: 30px;
+}
+
+h3 {
+    margin: 0px;
+    color: #999;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+li {
+  display: block;
+}
+
+ul {
+  margin-top: 30px;
+  padding: 0px;
+}
+
+#confirmations {
+  margin-top: 30px;
+}
+
+.confirmation h2 {
+  margin: 0px;
+  font-size: 21px;
+  color: #999;
+}
+
+.confirmation p {
+  color: #ccc;
+  margin-bottom: 0px;
+}
+
+.confirmation button {
+  margin-top: 20px;
+  background-color: #66FF66;
+  border: none;
+  font-weight: bold;
+}
+
+.confirmation .ticket {
+  margin-top: 30px;
+  color: #F3F3F3;
+  display: none;
+}
+
+.confirmation .ticket span {
+  font-weight: bold;
+}
+
+p.call {
+  color: #F3F3F3;
+  font-weight: bold;
+  text-align: center;
+}

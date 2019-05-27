@@ -1,0 +1,85 @@
+body {
+  background-color: #ccc;
+  background-image: url('./imgs/background.jpg');
+  padding: 10px;
+}
+
+legend {
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #f3f3f3;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+h2 {
+  color: #f3f3f3;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+    margin: 0px;
+    color: #999;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+li {
+  display: block;
+}
+
+ul {
+  margin-top: 30px;
+  padding: 0px;
+}
+
+.vacation {
+  padding: 10px;
+  width: 190px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.vacation h2 {
+  margin: 0px;
+  font-size: 21px;
+  color: #999;
+}
+
+.vacation p {
+  color: #aaa;
+  margin-bottom: 0px;
+}
+
+.vacation p:LAST-CHILD {
+  color: #aaa;
+  margin-bottom: 40px;
+}
+
+p.call {
+  color: #F3F3F3;
+  font-weight: bold;
+  text-align: center;
+}
+
+p.vacationFee {
+  color: #F3F3F3;
+  text-align: left;
+}
+
+div#vacations ul {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+div#vacations ul:LAST-CHILD {
+  margin-right: 0px;
+}

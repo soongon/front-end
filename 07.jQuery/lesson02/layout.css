@@ -1,0 +1,83 @@
+body {
+  background-color: #ccc;
+  background-image: url('./imgs/background.jpg');
+  padding: 10px;
+}
+
+legend {
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  color: #f3f3f3;
+  font-size: 23px;
+  font-weight: bold;
+  margin: 0px;
+}
+
+h3 {
+    margin: 0px;
+    color: #999;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+li {
+  display: block;
+}
+
+ul {
+  margin-top: 30px;
+  padding: 0px;
+}
+
+.vacation {
+  padding: 10px;
+  width: 190px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.vacation h2 {
+  margin: 0px;
+  font-size: 21px;
+  color: #999;
+}
+
+.vacation p {
+  color: #aaa;
+  margin-bottom: 0px;
+}
+
+.vacation ul.comments {
+  width: 100%;
+  margin: 0px;
+  color: #777;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.vacation button {
+  margin-top: 20px;
+  width: 100%;
+  height: 30px;
+  background-color: #66FF66;
+  border: none;
+  font-weight: bold;
+}
+
+p.call {
+  color: #F3F3F3;
+  font-weight: bold;
+  text-align: center;
+}
+
+div#vacations ul {
+  display: inline-block;
+  margin-right: 40px;
+}
+
+div#vacations ul:LAST-CHILD {
+  margin-right: 0px;
+}
