@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="264a96c7-0c92-4ad0-9fbb-4c5d9d7f5f23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/front-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/CardPreset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/LinkButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/PrimaryButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/ProductList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/RegionList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/SalesRanking.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/SectionTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/TabPanel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/components/UserList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/atomic_ex/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/Hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/LightSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/ListEx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/SampleButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/ShowName.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/Taro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/component_ex/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/FlagSwitch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/InformationArea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/InformationContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/ItemContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/ItemList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/MainTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/SwitchContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/UserCard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/UserCardWrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/components/ViewFlagValue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08.react/components_ex/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/.idea/09.firebase.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/app-vue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09.firebase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/css/landing-page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/css/pe-icon-7-stroke.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/faces/face-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/faces/face-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/faces/face-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/faces/face-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/adobe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/airbnb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/ebay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/evernote.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/zappos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/logos/zendesk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/new_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/phone_app.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/examples/home_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/examples/home_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/examples/home_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/iphone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-1/iphones.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-2/bg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-2/examples/home_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-2/examples/home_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-2/mac1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/showcases/showcase-2/mac2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/bg3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/examples/home_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/examples/home_22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/examples/home_33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/examples/home_44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/iphone3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/template/mac.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/img/web_app.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/js/awesome-landing-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/js/jquery-1.10.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/assets/js/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/phone_app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-landing-page-master/web_app.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/assets/js/awesome-landing-page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1137">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/exercise/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/App.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/style.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/08.react/01.components/complex-component/src/contents/Label.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/phone_app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2860">
+              <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/web_app.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/awesome-landing-page-master/web_app.html" />
+        <option value="$PROJECT_DIR$/awesome-landing-page-master/phone_app.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/front-end.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2048" />
+    <option name="height" value="1152" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+              <item name="00.intro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+              <item name="00.intro" type="462c0819:PsiDirectoryNode" />
+              <item name="step1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+              <item name="00.intro" type="462c0819:PsiDirectoryNode" />
+              <item name="step2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+              <item name="00.intro" type="462c0819:PsiDirectoryNode" />
+              <item name="step3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="front-end" type="462c0819:PsiDirectoryNode" />
+              <item name="08.react" type="462c0819:PsiDirectoryNode" />
+              <item name="01.components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="264a96c7-0c92-4ad0-9fbb-4c5d9d7f5f23" name="Default Changelist" comment="" />
+      <created>1558743407987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558743407987</updated>
+      <workItem from="1558743409336" duration="2084000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2084000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30500302" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/phone_app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2860">
+          <caret line="130" column="29" selection-start-line="130" selection-start-column="29" selection-end-line="130" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/web_app.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-landing-page-master/assets/js/awesome-landing-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1137">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/exercise/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/step1/src/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08.react/01.components/complex-component/src/contents/Label.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

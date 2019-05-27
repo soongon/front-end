@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/5.5.0/firebase-firestore.js"></script>
+    <script>
+        // Initialize Firebase
+        var config = {
+            apiKey: "AIzaSyAEoaKZbKv8m5qm1BA6bbwE7SABAvhSJP4",
+            authDomain: "fir-cookbook-2f7b4.firebaseapp.com",
+            databaseURL: "https://fir-cookbook-2f7b4.firebaseio.com",
+            projectId: "fir-cookbook-2f7b4",
+            storageBucket: "fir-cookbook-2f7b4.appspot.com",
+            messagingSenderId: "11658208375"
+        };
+        firebase.initializeApp(config);
+        var db = firebase.firestore();
+        var settings = {timestampsInSnapshots: true};
+        db.settings(settings);
+    </script>
+</head>
+<body>
+
+    <h1>Hello world</h1>
+
+    <script>
+        db.collection('persons').doc('kim').get().then((doc) => {
+            console.log(doc.data().age);
+        });
+    </script>
+</body>
+</html>

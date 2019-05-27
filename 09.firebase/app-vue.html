@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div id="shopping-list">
+        <h1>{{header}}</h1>
+        <div>
+            <input type="text" v-model="newItem" placeholder="Add an item" @keyup.enter="saveItem">
+            <button @click="saveItem">Save</button>
+        </div>
+        <ul>
+            <li v-for="item in items">{{item}}</li>
+        </ul>
+        <p v-if="items.length === 0">No data..</p>
+    </div>
+<script src="https://unpkg.com/vue"></script>
+<script>
+    new Vue({
+        el: '#shopping-list',
+        data: {
+            header: 'shopping list',
+            newItem: '',
+            items: [
+                // '10 party hats',
+                // '2 board games',
+                // '20 cups',
+            ]
+        },
+        methods: {
+            saveItem: function() {
+                this.items.push(this.newItem);
+                this.newItem = '';
+            }
+        }
+    });
+</script>
+</body>
+</html>
